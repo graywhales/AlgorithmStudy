@@ -1,6 +1,5 @@
 # AlgorithmStudy
 
-참여자 : 김소진,장재욱
 ```json
 {
   "name": "SpartaStudy",
