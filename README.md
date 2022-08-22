@@ -11,3 +11,5 @@
   "learning":{"data structure"}
 }
 ```
+
+ <a href="./../greedy/14916">Greedy</a>
