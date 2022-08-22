@@ -12,4 +12,4 @@
 }
 ```
 
- <a href="./../greedy/14916">Greedy</a>
+ <a href="./greedy/14916">Greedy</a>
