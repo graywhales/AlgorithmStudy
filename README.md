@@ -12,5 +12,5 @@
 }
 ```
 
- <a href="./greedy/">Greedy</a><br>
+ <a href="./greedy/">Greedy</a><br><br>
  <a href="./data_structure/">Data Structure</a>
